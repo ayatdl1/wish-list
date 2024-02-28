@@ -40,15 +40,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ef9f980b972c421070653f56f053af7e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Validate Quantity</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_1312750_wish_lis">0e2084cf9768421070653f56f053afdd</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">0e2084cf9768421070653f56f053afdd</sys_scope>
         <sys_update_name>sys_script_ef9f980b972c421070653f56f053af7e</sys_update_name>
-        <sys_updated_by>fred.luddy</sys_updated_by>
-        <sys_updated_on>2024-02-28 11:00:54</sys_updated_on>
+        <sys_updated_by>carol.coughlin</sys_updated_by>
+        <sys_updated_on>2024-02-28 13:14:01</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
